@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("redis")
-public class test {
+public class RedisTest {
 
     @Autowired
     private RedisUtils redisUtils;
