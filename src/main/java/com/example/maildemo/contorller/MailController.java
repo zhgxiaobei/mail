@@ -32,7 +32,7 @@ public class MailController {
             return "sucesss";
         } catch (Exception ex) {
             ex.printStackTrace();
-            return "errorlalala";
+            return "errorlalalaaaa";
         }
     }
 }
